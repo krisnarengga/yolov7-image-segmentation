@@ -5,7 +5,7 @@ This app is based on YOLOV7 object detection library engine from WongKinYiu repo
 
 And based on image segmentation and tracking github project from RizwanMunawar on https://github.com/RizwanMunawar/yolov7-segmentation.git
 
-Run this command to run the app python predict_counting.py --weights yolov7-seg.pt --source 120.mp4 --view-img --nosave --trk
+Run this command to run the app : python predict_counting.py --weights yolov7-seg.pt --source 120.mp4 --view-img --nosave --trk
 
 Notes: You can download yolov7-seg from https://github.com/RizwanMunawar/yolov7-segmentation/releases/download/yolov7-segmentation/yolov7-seg.pt
 
